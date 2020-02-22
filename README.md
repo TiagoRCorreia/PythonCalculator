@@ -10,6 +10,8 @@ $ cd PythonCalculator
 $ git init 
 $ touch main.py Calculator.py
 	# Added some code to files
+$ git add .
+$ git commit -m "Calculator Project"
 $ hub create
 $ git push -u origin HEAD
 ```
