@@ -2,5 +2,17 @@
 
 This repo has been created in command line without using browser with the new command line interface created by Github.
 
+##### Used commands
+
+```bash
+$ mkdir PythonCalculator
+$ cd PythonCalculator
+$ git init 
+$ touch main.py Calculator.py
+	# Added some code to files
+$ hub create
+$ git push -u origin HEAD
+```
+
 Link of the repository:
 https://github.com/github/hub
