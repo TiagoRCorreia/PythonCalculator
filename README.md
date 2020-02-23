@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/tiagorcorreia/PythonCalculator)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tiagorcorreia/PythonCalculator)
-![GitHub followers](https://img.shields.io/github/followers/tiagorcorreia?style=social)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/tiagorcorreia/PythonCalculator)
 # Just a test with Github CLI 
 
 This repo has been created in command line without using browser with the new command line interface created by Github.
