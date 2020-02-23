@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Just a test with Github CLI 
 
 This repo has been created in command line without using browser with the new command line interface created by Github.
