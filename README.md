@@ -1,4 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub](https://img.shields.io/github/license/tiagorcorreia/PythonCalculator)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tiagorcorreia/PythonCalculator)
+![GitHub followers](https://img.shields.io/github/followers/tiagorcorreia?style=social)
 # Just a test with Github CLI 
 
 This repo has been created in command line without using browser with the new command line interface created by Github.
